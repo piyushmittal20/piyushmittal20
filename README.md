@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
-
 ## 💻 Introduction
 
 A skilled and passionate software developer with expertise in backend development, cloud computing, and frontend developement. Experienced in working with a variety of technologies including JavaScript, TypeScript, Python, NodeJS, ExpressJS, Serverless Application Model, Mongoose, Firebase, ReactJS, Bootstrap, Git, MongoDB, Redis, AWS Cloud, TerraForm, and Elastic Cloud. Committed to delivering high-quality solutions and continuously expanding knowledge in the ever-evolving tech landscape.
