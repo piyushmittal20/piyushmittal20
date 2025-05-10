@@ -38,16 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyushmittal20&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmittal20&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyushmittal20&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-</p>
-
-## 📫 Contact
+## 📫 Connect
 
 - **Email:** 20piyushmittal@gmail.com
+- **Linkedin:** https://www.linkedin.com/in/piyush-mittal-9a71121b6/
